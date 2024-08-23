@@ -1,1 +1,1 @@
-#### This is a repo for GCP devops project for KK course
+# This is a repo for GCP devops project for KK course
